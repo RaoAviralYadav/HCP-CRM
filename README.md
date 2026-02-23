@@ -29,7 +29,13 @@ Behind the scenes, a **LangGraph ReAct agent** orchestrates a set of specialized
 > **Left panel** — Interaction form (AI-controlled, not manually filled)  
 > **Right panel** — AI assistant chat
 
+<div align="center">
 
+![](https://github.com/RaoAviralYadav/HCP-CRM/blob/66edce1480e01e4037f28c29d7343cae50b6d4e7/frontend/public/eg01.png)
+
+
+![](https://github.com/RaoAviralYadav/HCP-CRM/blob/66edce1480e01e4037f28c29d7343cae50b6d4e7/frontend/public/eg02.png)
+</div>
 
 | User types... | AI extracts & fills... |
 |---|---|
