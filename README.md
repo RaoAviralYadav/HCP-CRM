@@ -29,6 +29,8 @@ Behind the scenes, a **LangGraph ReAct agent** orchestrates a set of specialized
 > **Left panel** — Interaction form (AI-controlled, not manually filled)  
 > **Right panel** — AI assistant chat
 
+
+
 | User types... | AI extracts & fills... |
 |---|---|
 | *"Met Dr. Patel today. Discussed OncoBoost Phase III trial. Sentiment was positive. Shared the efficacy brochure."* | HCP Name → Dr. Patel, Date → today, Topics → OncoBoost Phase III, Sentiment → Positive, Materials → Efficacy brochure |
@@ -223,7 +225,7 @@ The form is intentionally **read-only** from the user's perspective. The AI is t
 ## 👤 Author
 
 **Aviral Yadav**  
-[GitHub](https://github.com/RaoAviralYadav) · [LinkedIn](https://linkedin.com/in/RaoAviralYadav)
+[GitHub](https://github.com/RaoAviralYadav) · [LinkedIn](https://www.linkedin.com/in/aviral-yadav-bb30a032a/)
 
 ---
 
