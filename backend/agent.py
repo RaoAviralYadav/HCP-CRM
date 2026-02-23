@@ -45,7 +45,7 @@ def create_agent():
     """Create and return the compiled LangGraph agent."""
     llm = ChatGroq(
         api_key=GROQ_API_KEY,
-        model="gemma2-9b-it",
+        model="llama-3.3-70b-versatile",
         temperature=0,
     )
 
